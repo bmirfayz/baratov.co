@@ -38,25 +38,25 @@
         </li>
         <li class="icon-box">
             <i class="fa fa-user"></i>
-            <a href="about.html">
+            <a href="/aboutus">
                 <h2>About</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-briefcase"></i>
-            <a href="portfolio.html">
+            <a href="/portfolio">
                 <h2>Portfolio</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-envelope-open"></i>
-            <a href="contact.html">
+            <a href="/contactus">
                 <h2>Contact</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-comments"></i>
-            <a href="blog.html">
+            <a href="/blogs">
                 <h2>Blog</h2>
             </a>
         </li>
@@ -70,11 +70,11 @@
             <span></span>
             <span></span>
             <ul class="list-unstyled" id="menu">
-                <li class="active"><a href="index.html"><i class="fa fa-home"></i><span>Home</span></a></li>
-                <li><a href="about.html"><i class="fa fa-user"></i><span>About</span></a></li>
-                <li><a href="portfolio.html"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
-                <li><a href="contact.html"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
-                <li><a href="blog.html"><i class="fa fa-comments"></i><span>Blog</span></a></li>
+                <li class="active"><a href="/"><i class="fa fa-home"></i><span>Home</span></a></li>
+                <li><a href="/aboutus"><i class="fa fa-user"></i><span>About</span></a></li>
+                <li><a href="/portfolio"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
+                <li><a href="/contactus"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
+                <li><a href="/blogs"><i class="fa fa-comments"></i><span>Blog</span></a></li>
             </ul>
         </div>
     </nav>
@@ -88,9 +88,11 @@
         <div class="col-lg-4 bg position-fixed d-none d-lg-block"></div>
         <div class="col-12 col-lg-8 offset-lg-4 home-details text-left text-sm-center text-lg-left">
             <div>
-                <img src="http://via.placeholder.com/300x300.jpg" class="img-fluid main-img-mobile d-none d-sm-block d-lg-none" alt="my picture" />
-                <h1 class="text-uppercase poppins-font">I'm Mirfayz Baratov.<span>web designer</span></h1>
-                <p class="open-sans-font">I'm a Tunisian based web designer & front‑end developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</p>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMekq1yDu5ayw3bWKmMu-5UVZWEeFZzE_2UfZyXclruNBA8Zz_kuGEnfbsI9PLQuFnq8w5&s=10" class="img-fluid main-img-mobile d-none d-sm-block d-lg-none" alt="my picture" />
+                <h1 class="text-uppercase poppins-font">I'm Baratov Mirfayz.<span>web designer</span></h1>
+                <p class="open-sans-font">"Hi, I'm Baratov Mirfayz, a passionate and experienced web developer with a strong background in creating dynamic and user-friendly websites. With 4 years of professional experience in the field, I have a deep understanding of web development technologies and frameworks.
+
+                    I specialize in front-end development, utilizing HTML, CSS, and JavaScript to build visually appealing and responsive websites. I have a keen eye for design and pay attention to details, ensuring that the websites I develop not only function flawlessly but also provide an excellent user experience.</p>
                 <a class="button" href="about.html">
                     <span class="button-text">more about me</span>
                     <span class="button-icon fa fa-arrow-right"></span>
@@ -117,3 +119,5 @@
 </body>
 
 </html>
+
+

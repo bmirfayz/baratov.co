@@ -11,18 +11,18 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700" rel="stylesheet">
 
     <!-- Template CSS Files -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/preloader.min.css" rel="stylesheet">
-    <link href="css/circle.css" rel="stylesheet">
-    <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/fm.revealator.jquery.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/tunis/dark/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/tunis/dark/css/preloader.min.css" rel="stylesheet">
+    <link href="/tunis/dark/css/circle.css" rel="stylesheet">
+    <link href="/tunis/dark/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/tunis/dark/css/fm.revealator.jquery.min.css" rel="stylesheet">
+    <link href="/tunis/dark/css/style.css" rel="stylesheet">
 
     <!-- CSS Skin File -->
-    <link href="css/skins/yellow.css" rel="stylesheet">
+    <link href="/tunis/dark/css/skins/yellow.css" rel="stylesheet">
 
     <!-- Modernizr JS File -->
-    <script src="js/modernizr.custom.js"></script>
+    <script src="/tunis/dark/js/modernizr.custom.js"></script>
 </head>
 
 <body class="contact">
@@ -32,31 +32,31 @@
     <ul class="icon-menu d-none d-lg-block revealator-slideup revealator-once revealator-delay1">
         <li class="icon-box">
             <i class="fa fa-home"></i>
-            <a href="index.html">
+            <a href="/">
                 <h2>Home</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-user"></i>
-            <a href="about.html">
+            <a href="/aboutus">
                 <h2>About</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-briefcase"></i>
-            <a href="portfolio.html">
+            <a href="/portfolio">
                 <h2>Portfolio</h2>
             </a>
         </li>
         <li class="icon-box active">
             <i class="fa fa-envelope-open"></i>
-            <a href="contact.html">
+            <a href="/contactus">
                 <h2>Contact</h2>
             </a>
         </li>
         <li class="icon-box">
             <i class="fa fa-comments"></i>
-            <a href="blog.html">
+            <a href="/blogs">
                 <h2>Blog</h2>
             </a>
         </li>
@@ -70,11 +70,11 @@
             <span></span>
             <span></span>
             <ul class="list-unstyled" id="menu">
-                <li><a href="index.html"><i class="fa fa-home"></i><span>Home</span></a></li>
-                <li><a href="about.html"><i class="fa fa-user"></i><span>About</span></a></li>
-                <li><a href="portfolio.html"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
-                <li class="active"><a href="contact.html"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
-                <li><a href="blog.html"><i class="fa fa-comments"></i><span>Blog</span></a></li>
+                <li><a href="/"><i class="fa fa-home"></i><span>Home</span></a></li>
+                <li><a href="/aboutus"><i class="fa fa-user"></i><span>About</span></a></li>
+                <li><a href="/portfolio"><i class="fa fa-folder-open"></i><span>Portfolio</span></a></li>
+                <li class="active"><a href="/contactus"><i class="fa fa-envelope-open"></i><span>Contact</span></a></li>
+                <li><a href="/blogs"><i class="fa fa-comments"></i><span>Blog</span></a></li>
             </ul>
         </div>
     </nav>
@@ -93,8 +93,8 @@
         <div class="row">
             <!-- Left Side Starts -->
             <div class="col-12 col-lg-4">
-                <h3 class="text-uppercase custom-title mb-0 ft-wt-600 pb-3">Anytime !</h3>
-                <p class="open-sans-font mb-3"> Anytime feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
+                <h3 class="text-uppercase custom-title mb-0 ft-wt-600 pb-3">Don't be shy !</h3>
+                <p class="open-sans-font mb-3">Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
                 <p class="open-sans-font custom-span-contact position-relative">
                     <i class="fa fa-envelope-open position-absolute"></i>
                     <span class="d-block">mail me</span>bmirfayz@gmail.com
@@ -149,17 +149,17 @@
 
 </section>
 <!-- Template JS Files -->
-<script src="js/jquery-3.5.0.min.js"></script>
-<script src="js/preloader.min.js"></script>
-<script src="js/fm.revealator.jquery.min.js"></script>
-<script src="js/imagesloaded.pkgd.min.js"></script>
-<script src="js/masonry.pkgd.min.js"></script>
-<script src="js/classie.js"></script>
-<script src="js/cbpGridGallery.js"></script>
-<script src="js/jquery.hoverdir.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/custom.js"></script>
+<script src="/tunis/dark/js/jquery-3.5.0.min.js"></script>
+<script src="/tunis/dark/js/preloader.min.js"></script>
+<script src="/tunis/dark/js/fm.revealator.jquery.min.js"></script>
+<script src="/tunis/dark/js/imagesloaded.pkgd.min.js"></script>
+<script src="/tunis/dark/js/masonry.pkgd.min.js"></script>
+<script src="/tunis/dark/js/classie.js"></script>
+<script src="/tunis/dark/js/cbpGridGallery.js"></script>
+<script src="/tunis/dark/js/jquery.hoverdir.js"></script>
+<script src="/tunis/dark/js/popper.min.js"></script>
+<script src="/tunis/dark/js/bootstrap.js"></script>
+<script src="/tunis/dark/js/custom.js"></script>
 
 </body>
 
